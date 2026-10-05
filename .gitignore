@@ -1,0 +1,9 @@
+# 密钥等本地敏感文件不入库
+.ssh/
+*.key
+*.pem
+
+# 临时 / 系统
+Thumbs.db
+.DS_Store
+*.tmp
